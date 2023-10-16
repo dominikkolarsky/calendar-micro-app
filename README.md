@@ -1,6 +1,12 @@
 # Run
+```shell
 npm install
-npm run dev
 
-# Buikd
+npm run dev
+```
+
+
+# Build
+```shell
 npm run build
+```

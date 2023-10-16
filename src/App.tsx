@@ -5,8 +5,8 @@ function App({ domElement }: { domElement: HTMLElement }) {
 
   return (
     <>
-      <div className="tkd_calendar">
-        <div className="tkd_calendar__inner">
+      <div className="calendar">
+        <div className="calendar__inner">
           <h2>Hello from micro-frontend-app, called: {attribute}</h2>
         </div>
       </div>

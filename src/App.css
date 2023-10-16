@@ -1,4 +1,4 @@
-.tkd_calendar {
+.calendar {
   margin: 0;
   display: flex;
   width: min(100%, 360px);
@@ -6,7 +6,7 @@
   align-items: center;
 }
 
-.tkd_calendar__inner {
+.calendar__inner {
   width: 100%;
   aspect-ratio: 1/1;
   background: #7b7b7b7d;
